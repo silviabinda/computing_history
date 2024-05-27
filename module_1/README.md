@@ -1,4 +1,4 @@
-## About module 1 (from the Computing History artwork):
+## About module 1:
 This open hardware module honours Ada Lovelace, who wrote the first algorithm intended for future computer machines. 
 ## Technical details:
 - Components used: ESP32, amplifier, speaker, LCD display
